@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FlowerShopCLI/FlowerShopCLI.csproj" />
+  <Project Path="FlowerShopGUI/FlowerShopGUI.csproj" />
+</Solution>
